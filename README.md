@@ -9,10 +9,10 @@ Hi! This is Sowmya Thogiti
 2. Creation of files and folders using PowerShell
 3. Modifying changes using VS code of source code
 4. The process how to fork others code or clone your own repo into your local machine and change as per your requirement
-5. We can develop beautiful websites using different kinds of front-end development environments. 
-    Ex:[Markdown](https://www.tutorialspoint.com/grav/grav_markdown_syntax.htm) 
-       [HTML](https://www.tutorialspoint.com/html/index.htm)
-       [CSS](https://www.tutorialspoint.com/css/index.htm)
+5. We can develop beautiful websites using different kinds of front-end development environments.   
+    Ex:[Markdown](https://www.tutorialspoint.com/grav/grav_markdown_syntax.htm)   
+       [HTML](https://www.tutorialspoint.com/html/index.htm)   
+       [CSS](https://www.tutorialspoint.com/css/index.htm)   
     credits: [tutorials point](https://www.tutorialspoint.com/index.htm)
 
 ## Downloading apps
