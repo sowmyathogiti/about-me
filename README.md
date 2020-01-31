@@ -1,8 +1,5 @@
-# Sowmya Thogiti
-Hi everyone, my name is Sowmya Thogiti and I am a new member of the Spring Batch (2020) working on my Masters of Applied Computer Science.
-I was born and brought up from a town named Jagtial of Telangana state in INDIA. Basically I belong to a middle class family and learned good ethics and values from my parents. Situations from my life made me strong and accept any kind of challenges. I am bit practical too! I love to take responsibilities and good in initiating things to make it perfect. I have done my under-graduation from Jyothishmathi institute of technology and science from Karimnagar (INDIA) majoring computer science engineering in the year 2015. Since then I have worked for IBM India Pvt. Ltd till Dec, 2K19 as an SAP ABAP Consultant. My hobbies include singing, playing badminton. My favorite hobby could be sleeping!
-I would like to have better software job as a Full-time employee which can help me grow in my career. I would like learn new things and apply it on real-time. I follow the saying that “Live as if you were to die tomorrow. Learn as if you were to live forever.”
-
+# about-me
+Hi! This is Sowmya Thogiti
 ## My Repositories
 - Route to my source repo [README](https://sowmyathogiti.github.io/about-me3/)
 - My hosted page on GitHub is [Sowmya_Thogiti](https://github.com/sowmyathogiti)
