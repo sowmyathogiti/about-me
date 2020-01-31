@@ -20,12 +20,8 @@ Hi! This is Sowmya Thogiti
 1. Install PuTTY using [PuTTY](https://www.ssh.com/ssh/putty/download)
 1. Install Git using [Git](https://git-scm.com/download/win)
 
-## Contributors 
-Sowmya_Thogiti - MS ACS (Spring 2020)
-My Favourite image is shown below:
-![Hope](https://www.academyofhappylife.com/wp-content/uploads/2017/04/IMG_0251.jpg)  
-Credits for image[Academy of happy life](https://www.academyofhappylife.com/learn-yesterday-live-today-hope-tomorrow/)
-
-
-
-
+## Contributors  
+Sowmya_Thogiti - MS ACS (Spring 2020)  
+My Favourite image is shown below:  
+![Hope](https://www.academyofhappylife.com/wp-content/uploads/2017/04/IMG_0251.jpg)    
+Credits for image [Academy of happy life](https://www.academyofhappylife.com/learn-yesterday-live-today-hope-tomorrow/)
