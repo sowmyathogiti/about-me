@@ -3,8 +3,8 @@
     margin: 0px;
 }
 article{
-        padding:  2em;
-}
+        }
+
 section{
     margin: 1em;
     }
@@ -12,6 +12,10 @@ footer{
     background-color: green;
     height: 10vh;
     width: 100%;
+    align-self: bottom;
+
+}
+.navi{
 
 }
     h2,h3{
@@ -25,7 +29,9 @@ header{
     color: coral;
 }
 aside{
+    align-items: center;
     flex-basis: 25%;
+    
 }
 
 #profile_pic{
@@ -47,6 +53,7 @@ aside{
  }
  p{
     color: rgb(110, 108, 108);
+    font-size:medium;
  }
  aside{
     flex-basis: 25%;
@@ -58,7 +65,7 @@ aside{
     border: 3px #454372 solid;
     border-radius: 8px;
     margin: 5px;
-    color: #454372;
+   
  }
  video{
     width: 300px; 

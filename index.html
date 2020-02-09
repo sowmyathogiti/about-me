@@ -7,39 +7,46 @@
     <meta name="author" content="Sowmya Thogiti">
     <meta name="description" content="This is my developer page.">
     <title>Sowmya Thogiti Module 2</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.11.0/css/mdb.min.css" rel="stylesheet">
+
     <link href="styles/thogiti.css" rel="stylesheet">
 
 </head>
 
 
 <body>
-    <header id = "heading">
+    <header class="page-header noselect fixed" role="banner" id="heading">
         <h1>
             <header>Sowmya Thogiti Module 2: P2 Styled Site</header>
         </h1>
     </header>
-    <nav>
+    <nav class="navbar tabs">
         <img id="profile_pic" src="images/Sowmya.jpg" alt="profile picture">
-        <ul class="navigators">
+        <br>
+        <ul class="navigators ic-app-crumbs">
             <li>
-                <a href="index.html">Index</a>
+                <a href="./index.html">Index</a>
             </li>
             <li>
-                <a href="contact.html">Contact</a>
+                <a href="./contact.html">Contact</a>
             </li>
             <li>
-                <a href="agecalculator.html">Age Calculator</a>
+                <a href="./agecalculator.html">Age Calculator</a>
             </li>
         </ul>
     </nav>
-    <main>
-        <div class="contentarea">
+    <main class="container-fluid">
+        <div class="row">
             <article>
                 <p>
                     <h2>Below are few types of breeds in dogs
                 </p>
-                <h3>
-                    </p>
+                <div class="col-md-6">
                     <section>
                         <h2>Section 1:</h2>
                         <h3>Labrador</h3>
@@ -89,41 +96,64 @@
                         <tr>
                             <td class="tg-cly1">Lab<br></td>
                             <td class="tg-cly1">25kgs</td>
-                            <td class="tg-cly1" 2ft</td> </tr> <tr>
+                            <td class="tg-cly1">2ft</td>
+                        </tr>
+                        <tr>
                             <td class="tg-cly1">Boxer</td>
                             <td class="tg-cly1">10kgs</td>
                             <td class="tg-cly1">1.5ft</td>
                         </tr>
+                        <tr>
+                            <td class="tg-cly1">Briard</td>
+                            <td class="tg-cly1">8kgs</td>
+                            <td class="tg-cly1">1ft</td>
+                        </tr>
                     </table>
                     <br>
+                </div>
+                <video controls>
+                    <source src="images/VID-20180712-WA0005.mp4">
+                </video>
 
-                    <video controls>
-                        <source src="images/VID-20180712-WA0005.mp4">
-                    </video>
-                    <br>
             </article>
-            <aside>
-                <ul>
-                    <li>
-                        <a href="https://www.linkedin.com/">Linkedin
-                            <img src="images/linkedin.png" width="50" height="25" alt="logo" />
-                        </a>
-                    </li>
-                    <li><a href="https://www.facebook.com/">Facebook
-                            <img src="images/facebook.png" width="50" height="25" alt="logo" />
-                        </a></li>
-                    <li><a href="https://github.com/sowmyathogiti">GitHub
-                            <img src="images/github.png" width="70" height="25" alt="logo" />
-                        </a></li>
+            <div class="col-md-3">
+                <aside>
+                    <ul>
+                        <li>
+                            <a href="https://www.linkedin.com/">Linkedin
+                                <img src="images/linkedin.png" width="50" height="25" alt="logo" />
+                            </a>
+                        </li>
+                        <li><a href="https://www.facebook.com/">Facebook
+                                <img src="images/facebook.png" width="50" height="25" alt="logo" />
+                            </a></li>
+                        <li><a href="https://github.com/sowmyathogiti">GitHub
+                                <img src="images/github.png" width="70" height="25" alt="logo" />
+                            </a></li>
 
-                </ul>
+                    </ul>
 
-            </aside>
+                </aside>
+
+            </div>
+        </div>
     </main>
-    <footer id = "foot">
+    <footer id="foot">
         <foot>Web page designer for this site is Sowmya Thogiti</foot>
-        <br>        
-        &copy; 2020 Sowmya thogiti</footer>
+        <br>
+        &copy; 2020 Sowmya thogiti
+    </footer>
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.11.0/js/mdb.min.js"></script>
 </body>
 
 </html>
