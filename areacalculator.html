@@ -1,0 +1,71 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Sowmya Thogiti">
+    <meta name="description" content="This is my developer page.">
+    <title>Sowmya Thogiti Module 2</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.11.0/css/mdb.min.css" rel="stylesheet">
+
+    <link href="styles/thogiti.css" rel="stylesheet">
+<script src ="./main.js">  </script>
+
+</head>
+
+
+<body>
+    <header class="page-header noselect fixed" role="banner" id="heading">
+        <h1>
+            <header>Sowmya Thogiti Module 2: P2 Styled Site</header>
+        </h1>
+    </header>
+    <nav class="navbar tabs">
+        <img id="profile_pic" src="images/Sowmya.jpg" alt="profile picture">
+        <br>
+        <ul class="navigators ic-app-crumbs">
+            <li>
+                <a href="./index.html">Index</a>
+            </li>
+            <li>
+                <a href="./contact.html">Contact</a>
+            </li>
+            <li>
+                <a href="./areacalculator.html">Area Calculator</a>
+            </li>
+        </ul>
+    </nav>
+    <main>
+        <h2>How to calculate your circle radius correctly!!</h2>
+        <form>
+            Radius : <input type="number" id="firstNumber" />
+            <br>
+            <br>
+            Size: <input type="text" id="size" />
+            <br>
+            <br>
+            Color: <input type="text" id="color" />
+            <br>
+            <br>
+            <input type="button" onClick="multiply()" Value="Calculate" />
+            </form>
+            <p> Area of circle:
+                <span id="result"></span>
+            </p>
+            <p> Size and color of circle is:
+                <span id="result2"></span>
+            </p>
+    </main>
+    <footer id = "foot">
+        <foot>Web page designer for this site is Sowmya Thogiti</foot>
+        <br>        
+        &copy; 2020 Sowmya thogiti</footer>
+</body>
+
+</html>
